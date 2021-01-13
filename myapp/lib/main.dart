@@ -43,7 +43,7 @@ class ViewState extends State {
           onTap: () => generateRandomColor(),
           behavior: HitTestBehavior.opaque,
           child: Container(
-            child: Text('Click Here'),
+            child: Text('Hey there'),
             alignment: Alignment.center,
           )),
     );
